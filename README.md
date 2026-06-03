@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavandeep" alt="pavandeep" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pavandeeptech" target="blank"><img src="https://img.shields.io/twitter/follow/pavandeeptech?logo=twitter&style=for-the-badge" alt="pavandeeptech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pavandeep.net" target="blank"><img src="https://img.shields.io/twitter/follow/pavandeep.net?logo=twitter&style=for-the-badge" alt="pavandeep.net" /></a> </p>
 
 - 🌱 I’m currently learning **HTML/CSS , JAVA**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 📫 How to reach me **pavandeeptech@gmail.com**
+- 📫 How to reach me **pavandeep.net@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/pavandeeptech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pavandeeptech" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pavandeeptech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavandeeptech" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pavandeeptech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pavandeeptech" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/pavandeeptech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="pavandeeptech" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/pavandeeptech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="pavandeep.net" height="30" width="40" /></a>
 <a href="/https://rss.app/feed/h1arndy5zvuthhlj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feed/h1arndy5zvuthhlj" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
